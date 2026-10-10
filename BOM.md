@@ -13,10 +13,9 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Microcontroller / brain of the project | 1 | $4.90 | $4.90 | [Seeed](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| [MPU6050](https://www.aliexpress.com/item/1005009301512511.html?spm=a2g0o.cart.0.0.114338daScOU9A&mp=1&pdp_npi=6%40dis%21USD%21USD+6.35%21USD+1.35%21%21USD+1.35%21%21%21%4021038db317915651423932301e1371%2112000048670005993%21ct%21GB%218516015302%21%211%210%21) | Motion sensing | 1 | $1.35 | $1.35 | [ALI EXPRESS](https://www.aliexpress.com/item/1005009301512511.html?spm=a2g0o.cart.0.0.114338daScOU9A&mp=1&pdp_npi=6%40dis%21USD%21USD+6.35%21USD+1.35%21%21USD+1.35%21%21%21%4021038db317915651423932301e1371%2112000048670005993%21ct%21GB%218516015302%21%211%210%21) |
 | [PCB](https://cart.jlcpcb.com/shopcart/cart/) | pcb | 1 | $10.49 | $10.49 | [JLC PCB](https://cart.jlcpcb.com/shopcart/cart/) |
-| **Parts subtotal** | — | — | — | **$16.74** | — |
+| **Parts subtotal** | — | — | — | **$15.39** | — |
 | **Tax & shipping** | — | — | — | **$16.01** | — |
-| **Total** | — | — | — | **$32.75** | — |
+| **Total** | — | — | — | **$31.40** | — |
 
-$32.25 left of the tier's funding.
+$33.60 left of the tier's funding.
