@@ -16,7 +16,7 @@
 | [PCB](https://cart.jlcpcb.com/shopcart/cart/) | pcb | 1 | $10.49 | $10.49 | [JLC PCB](https://cart.jlcpcb.com/shopcart/cart/) |
 | [oled module](https://www.aliexpress.com/item/1005005261231785.html?spm=a2g0o.cart.0.0.7d3b38daQHFUm5&mp=1&pdp_npi=6%40dis%21USD%21USD+2.40%21USD+2.21%21%21USD+2.21%21%21%21%400b88489417916508159687858e0d62%2112000052697476328%21ct%21GB%218516015302%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) | display | 1 | $0.01 | $0.01 | [ALI EXPRESS](https://www.aliexpress.com/item/1005005261231785.html?spm=a2g0o.cart.0.0.7d3b38daQHFUm5&mp=1&pdp_npi=6%40dis%21USD%21USD+2.40%21USD+2.21%21%21USD+2.21%21%21%21%400b88489417916508159687858e0d62%2112000052697476328%21ct%21GB%218516015302%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) |
 | **Parts subtotal** | — | — | — | **$15.40** | — |
-| **Tax & shipping** | — | — | — | **$16.01** | — |
-| **Total** | — | — | — | **$31.41** | — |
+| **Tax & shipping** | — | — | — | **$16.00** | — |
+| **Total** | — | — | — | **$31.40** | — |
 
-**$1.41 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$1.40 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
