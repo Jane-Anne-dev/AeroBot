@@ -18,7 +18,7 @@
 | [soil moisture module](https://www.aliexpress.com/item/1005008638383068.html?spm=a2g0o.productlist.main.5.5ce878a3lMvOak&algo_pvid=de0b89f7-c2e5-4167-8d17-448ec7c09f44&algo_exp_id=de0b89f7-c2e5-4167-8d17-448ec7c09f44-4&pdp_ext_f=%7B%22order%22%3A%2248%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.76%211.75%21%21%211.76%211.75%21%400b0fe40d17915717816211201e0e88%2112000046050262719%21sea%21GB%218516015302%21ABX%211%210%21n_tag%3A-29910%3Bd%3A9bb9f780%3Bm03_new_user%3A-29895%3BpisId%3A5000000211438706&curPageLogUid=JwKZuIAsJbzS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008638383068%7C_p_origin_prod%3A) | test my plants moisture | 1 | $1.75 | $1.75 | [aliexpress](https://www.aliexpress.com/item/1005008638383068.html?spm=a2g0o.productlist.main.5.5ce878a3lMvOak&algo_pvid=de0b89f7-c2e5-4167-8d17-448ec7c09f44&algo_exp_id=de0b89f7-c2e5-4167-8d17-448ec7c09f44-4&pdp_ext_f=%7B%22order%22%3A%2248%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.76%211.75%21%21%211.76%211.75%21%400b0fe40d17915717816211201e0e88%2112000046050262719%21sea%21GB%218516015302%21ABX%211%210%21n_tag%3A-29910%3Bd%3A9bb9f780%3Bm03_new_user%3A-29895%3BpisId%3A5000000211438706&curPageLogUid=JwKZuIAsJbzS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008638383068%7C_p_origin_prod%3A) |
 | [PCB](https://cart.jlcpcb.com/shopcart/cart/) | pcb | 1 | $10.49 | $10.49 | [JLC PCB](https://cart.jlcpcb.com/shopcart/cart/) |
 | **Parts subtotal** | — | — | — | **$20.70** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$20.70** | — |
+| **Tax & shipping** | — | — | — | **$20.00** | — |
+| **Total** | — | — | — | **$40.70** | — |
 
-$9.30 left of the tier's funding.
+**$10.70 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
