@@ -14,10 +14,9 @@
 | --- | --- | --- | --- | --- | --- |
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Microcontroller / brain of the project | 1 | $4.90 | $4.90 | [Seeed](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | [MPU6050](https://www.aliexpress.com/item/1005009301512511.html?spm=a2g0o.cart.0.0.114338daScOU9A&mp=1&pdp_npi=6%40dis%21USD%21USD+6.35%21USD+1.35%21%21USD+1.35%21%21%21%4021038db317915651423932301e1371%2112000048670005993%21ct%21GB%218516015302%21%211%210%21) | Motion sensing | 1 | $1.35 | $1.35 | [ALI EXPRESS](https://www.aliexpress.com/item/1005009301512511.html?spm=a2g0o.cart.0.0.114338daScOU9A&mp=1&pdp_npi=6%40dis%21USD%21USD+6.35%21USD+1.35%21%21USD+1.35%21%21%21%4021038db317915651423932301e1371%2112000048670005993%21ct%21GB%218516015302%21%211%210%21) |
-| [1.3'' OLED DISPLAY](https://www.aliexpress.com/item/1005005261231785.html?spm=a2g0o.cart.0.0.114338daScOU9A&mp=1&pdp_npi=6%40dis%21USD%21USD+2.40%21USD+2.21%21%21USD+2.21%21%21%21%4021038db317915651423932301e1371%2112000052697476328%21ct%21GB%218516015302%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) | Display | 1 | $2.21 | $2.21 | [ALI EXPRESS](https://www.aliexpress.com/item/1005005261231785.html?spm=a2g0o.cart.0.0.114338daScOU9A&mp=1&pdp_npi=6%40dis%21USD%21USD+2.40%21USD+2.21%21%21USD+2.21%21%21%21%4021038db317915651423932301e1371%2112000052697476328%21ct%21GB%218516015302%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) |
 | [PCB](https://cart.jlcpcb.com/shopcart/cart/) | pcb | 1 | $10.49 | $10.49 | [JLC PCB](https://cart.jlcpcb.com/shopcart/cart/) |
-| **Parts subtotal** | — | — | — | **$18.95** | — |
+| **Parts subtotal** | — | — | — | **$16.74** | — |
 | **Tax & shipping** | — | — | — | **$16.01** | — |
-| **Total** | — | — | — | **$34.96** | — |
+| **Total** | — | — | — | **$32.75** | — |
 
-$30.04 left of the tier's funding.
+$32.25 left of the tier's funding.
