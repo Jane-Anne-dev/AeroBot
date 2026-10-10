@@ -1,1 +1,1 @@
-print ("hello, my name is jane and i have loads of coins")
+print 
