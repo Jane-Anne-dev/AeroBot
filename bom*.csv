@@ -1,15 +1,5 @@
 # AeroBot – bill of materials
 
-
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
-"J2","1","Conn_01x02_Socket","","","","","${EXCLUDE_FROM_POS_FILES}","",""
-"J3","1","Conn_01x04_Pin","","","","","${EXCLUDE_FROM_POS_FILES}","",""
-"J6","1","Conn_01x08_Pin","","","","","${EXCLUDE_FROM_POS_FILES}","",""
-"SW1,SW2,SW3","3","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","",""
-"U3","1","XIAO-ESP32-S3-SMD","","","","","${EXCLUDE_FROM_POS_FILES}","Seeed_Studio_XIAO_Series:XIAO-ESP32-S3-SMD",""
-
-
-
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Microcontroller / brain of the project | 1 | $4.90 | $4.90 | [Seeed](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
@@ -17,7 +7,10 @@
 |moisture sensor module | sensor | 1 | $already owned| $already owned | |
 |SH1106 OLED MODULE | Display | 1 | $already owned| $already owned | |
 |MPU6050| motion sensor | 1 | $already owned| $already owned | |
-
+|Conn_01x02_Socket| pin | 1 | $already owned| $already owned | |
+|Conn_01x04_Socket| pin | 1 | $already owned| $already owned | |
+|Conn_01x08_Socket| pin | 1 | $already owned| $already owned | |
+|Push switch| button | 4 | $already owned| $already owned | |
 | **Parts subtotal** | — | — | — | **$15.39** | — |
 | **Tax & shipping** | — | — | — | **$13.99** | — |
 | **Total** | — | — | — | **$29.38** | — |
