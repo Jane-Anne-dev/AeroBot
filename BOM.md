@@ -15,7 +15,7 @@
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Microcontroller / brain of the project | 1 | $4.90 | $4.90 | [Seeed](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | [PCB](https://cart.jlcpcb.com/shopcart/cart/) | pcb | 1 | $10.49 | $10.49 | [JLC PCB](https://cart.jlcpcb.com/shopcart/cart/) |
 | **Parts subtotal** | — | — | — | **$15.39** | — |
-| **Tax & shipping** | — | — | — | **$13.70** | — |
-| **Total** | — | — | — | **$29.09** | — |
+| **Tax & shipping** | — | — | — | **$13.21** | — |
+| **Total** | — | — | — | **$28.60** | — |
 
-$0.91 left of the tier's funding.
+$1.40 left of the tier's funding.
