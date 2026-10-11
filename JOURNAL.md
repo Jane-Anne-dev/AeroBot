@@ -220,4 +220,8 @@ By updating the journal AFTER linking the hackatime, it goes to this:
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qPcmVml5icKkARKbagHZd2brr6lkJ2Kc/8eed451e620d1675a4db3012c5e98375618f8422098826b75f382618113e5ef3.png)
 
-Much more accurate
+Much more accurate.
+
+Helpful sites:
+https://wokwi.com/projects/new/esp32-c3
+https://github.com/olikraus/u8g2
