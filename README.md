@@ -28,3 +28,9 @@ The aerobot has 21 expressions:
 It also signals water me when it senses dry soil
 The 3rd button turns the screen off
 The 4th button recaliberates the mpu6050
+
+The aerobot is now comple. Please access the BOM.md for a proper breakdown of the necessary components. The journal for help with any struggles, as i may have struggled with the same thing. 
+The KiCad folder has all the schematics, and pcb render. As well as gerber  file which has to be zipped if you  want to order the pcb I made form JLC PCB.
+The main.cpp is the program to be installed in the ESP32 C3. it is built for an oled with the sh1106 driver. If you have a different OLED, just change the libraries and it should work.
+
+There's also the backup firmware which is just a copy of main.cpp in case the file gets missing.
