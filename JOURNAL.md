@@ -18,7 +18,7 @@
 2. [2026-10-09 – JUNE 8TH - Struggled a lot, almost gave up, then locked in and finished the schematics](#2026-10-09-june-8th---struggled-a-lot-almost-gave-up-then-lo)
 3. [2026-10-09 – June 9th  - Even more progress](#2026-10-09-june-9th---even-more-progress)
 4. [2026-10-10 – I perfected the use of the KiCad software. I am finally done with my pcb. It looks radical!](#2026-10-10-i-perfected-the-use-of-the-kicad-software-i-am-fi)
-5. [2026-10-11 – JUNE 10th and 11th - AeroBot is born!](#2026-10-11-june-10th-and-11th---aerobot-is-born)
+5. [2026-10-11 – JUNE 10th and 11th - AeroBot is born!!](#2026-10-11-june-10th-and-11th---aerobot-is-born)
 
 ## Design
 
@@ -174,11 +174,11 @@ The image above represent me struggling before i learned about vias
 
 [Timelapse](https://lookout.hackclub.com/api/media/6f1bfcd0-5b2a-4e77-b7ff-216261bdd31a/video.mp4)
 
-### 2026-10-11 – JUNE 10th and 11th - AeroBot is born!
+### 2026-10-11 – JUNE 10th and 11th - AeroBot is born!!
 
 **3h**
 
-JUNE 10th and 11th - AeroBot is born!
+JUNE 10th and 11th - AeroBot is born!!
 
 In this final phase, I had so much fun. Adding different expressions into the code was a blast!!
 Now button one controls the expressions, button 2 shows the plant sensor data, button three turns the screen on and off for power saving, and button 4 recaliberates the motion sensor.
