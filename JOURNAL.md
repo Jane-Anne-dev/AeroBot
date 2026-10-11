@@ -208,3 +208,5 @@ The face moves with motion but i can't add screen recording.
 I added a few more faces later on. The list is on the aerobot read me.
 
 A lot of help was from ai tools, reddit, and searching up customer reviews which is where I found that the oled i was buying works best with the u8g2 library. The animations in the wokwi simulation are a bit wabi sabi (off centered) because the only available oled was an sh1107 and the code is built for u8g2 sh1106.
+
+After that, I finally figured out how to work with my github. I committed all the changes. That part took some time because I had made a change on my repo without committing, while also working on my codespace in the vs code app. When i was ready to commit, it kept showing an error message which took me around 30 minutes to fix. It was simple really. I just need to upload certain git commands into the terminal to tell it what to do with those changes. I merged them with git commands i found online.
