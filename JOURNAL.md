@@ -217,3 +217,7 @@ UPDATE: When I save this project AFTER linking the hackatime it drops down from 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qPcmVml5icKkARKbagHZd2brr6lkJ2Kc/8e0c3295922c76853f4ddc1309fb6029f26111ef551c4ab4a703a54f861ebc13.png)
 
 By updating the journal AFTER linking the hackatime, it goes to this:
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qPcmVml5icKkARKbagHZd2brr6lkJ2Kc/8eed451e620d1675a4db3012c5e98375618f8422098826b75f382618113e5ef3.png)
+
+Much more accurate
