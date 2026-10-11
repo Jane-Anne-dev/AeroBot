@@ -213,3 +213,7 @@ After that, I finally figured out how to work with my github. I committed all th
 
 Lastly I synced my hackatime. I realised I had been syncing my lapses with my hackatime so i'm just stating it here  because I want to be honest. The hackatime counted some hours that were already documented in the lapse. My hackatime currently shows 28h 12m. Im sure this will be sorted out accordingly, but I just wanted to note it down so it didn't seem like i was trying to cheat.
 UPDATE: When I save this project AFTER linking the hackatime it drops down from 60+ hrs to 43.85. I guess the half life website knew to filter out the double lapses. Great!
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qPcmVml5icKkARKbagHZd2brr6lkJ2Kc/8e0c3295922c76853f4ddc1309fb6029f26111ef551c4ab4a703a54f861ebc13.png)
+
+By updating the journal AFTER linking the hackatime, it goes to this:
